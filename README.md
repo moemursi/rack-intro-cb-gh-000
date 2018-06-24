@@ -5,7 +5,7 @@
 2. Create a basic web app 
 3. Set up an HTTP web server using a `config.ru` file and the `rackup` command
 
-## Why Rack? 
+## Why Rack? g
 
 We've learned how the web works so far using abstract concepts. Problem is, when you are dealing with massive websites like YouTube or Facebook it's hard to fully understand the moving parts because there are so many of them. Thankfully, there is a gem for Ruby that will help us create a web server at its simplest. This gem is called [Rack](https://rack.github.io/) and it is what Rails is built on top of. Before we get to the complexity of Rails, let's first understand HTTP in its simplest form.
 
